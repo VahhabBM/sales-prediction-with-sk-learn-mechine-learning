@@ -51,7 +51,8 @@ You can install them using pip:
 ```bash
 pip install pandas numpy scikit-learn matplotlib
 ```
-**Model Evaluation**
+**Model Evaluation**:
+
 Linear Regression:
 RMSE (Root Mean Squared Error): [Insert RMSE value here]
 
@@ -71,5 +72,6 @@ The Random Forest model identified the following features as most important for 
 
 [List most important features here]
 
-**Conclusion**
+**Conclusion**:
+
 This project demonstrates the use of both Linear Regression and Random Forest to predict retail sales based on various factors such as store type, promotional offers, and competitor proximity. Random Forest performed better in terms of feature importance and model accuracy.
